@@ -1,0 +1,18 @@
+HOMEWORK PROJECT - 2026
+ "Did the Ehrenfest dog meet the Schrödinger cat"
+
+In order to innovate this year, the homework will consist of reversing the roles. You will be the teacher who must provide the subject of the exercise from the python code given below and which is supposed to be the result of your teaching instructions.
+As a teacher, you must:
+•	Introduce the problem and give relevant references and demonstrations (see comments along the code lines).
+•	Provide detailed instructions and indicate the different steps of the analysis to be conducted.
+•	Guide the student in the interpretation of the results and the writing of the code, i.e. provide indications and suggestions both for the technical part (python coding) and for the statistical treatment part.
+•	Outline the conclusions that the student must draw from this exercise.
+The comments I left in the python code will have to guide you, and the different exercise topics available on the moodle can be used as models. Some formula or demonstrations (as stated in the code comments) must be explicitly demonstrated in your instructions.
+I expect in return a pdf file of two double-sided pages maximum, with your name indicated in that of the file as : Statistics-Homework2026-<your_name>.pdf
+The returned task must be personal (use of AI prohibited) and individual. Of course, this does not prevent you from preparing the project in group.
+The deadline for return is Monday, November 16 before 6 p.m.
+Additional (technical) informations
+The code is given in plain python format (pyStatProject_HomeWork-2026.py) that you can execute through a command line, and in the form of a jupyter notebook (pyStatProject_HomeWork-2026.ipynb).
+The processing time of the data is rather long (~10mn). Indications are given as comments in the code, in case you have to adapt the parameter to your computing ressources. Conversely, you can increase the parameters to gain in precision. Don't hesitate to contact me in case of technical problems.
+You are also welcome to change, update or improve the code, adding variants or extending the analysis. If you think your modifications are relevant, you can send back your modified python code together with your teacher instructions (Statistics-Homework2026-<your_name>.py or ipynb)
+
